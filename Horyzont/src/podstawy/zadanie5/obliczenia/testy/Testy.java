@@ -16,6 +16,8 @@ public class Testy {
 
         System.out.printf("Odwod trojkata wynosi %.2f%n", t1.obwod());
         System.out.printf("Pole trojkaty wynosi %.2f%n", t1.pole());
+
+
         System.out.println("Czy sa take same trojkaty " + t1.equals(t2));
     }
 }
